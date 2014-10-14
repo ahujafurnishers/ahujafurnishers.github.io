@@ -1,7 +1,7 @@
-ahujaFurnishers
-===============
+Ahuja Furnishers
+================
 
-Web Site for Ahuja Furnishers 
+Web Site for Ahuja Furnishers
 
 TODO:
 -----
